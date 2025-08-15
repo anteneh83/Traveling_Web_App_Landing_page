@@ -47,7 +47,7 @@ useEffect(()=>{
           <div data-aos="fade-up" className="cardDiv grid">
             <div className="destinationInput">
               <label htmlFor="city">
-                Search your destination:
+                Search your Destination:
               </label>
               <div className="input flex">
                 <input type="text" placeholder='Enter name here....' />
